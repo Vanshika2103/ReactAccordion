@@ -1,0 +1,13 @@
+.main-div {
+  background-color: rgb(124, 120, 250);
+  color: white;
+  min-height: 100vh;
+  padding: 5px;
+  border-radius: 50px 5px;
+  margin: 5px;
+  padding: 25px;
+}
+
+.main-div h1 {
+  font-size: 30px;
+}
